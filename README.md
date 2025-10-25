@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi👋 there, I'm Sofikkk!
+### 💻 Explorer, Knowledge Seeker
 
-<!--
-**sofikuw/sofikuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **explorer** of the web and a dedicated **knowledge seeker**, always looking for random knowledge I ain't using in years.
+### 👤 portfolio
+This ain't one but, let's assume...
+<a href="https://sofikuw.github.io/">
+<img src="images/portfolio.jpg"> </a>
 
-Here are some ideas to get you started:
+### ✉️ Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always doing some side quests.
+But, Feel free to reach out
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sofikuw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofikuw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:84sofik@gmail.com) 
+
+-----
