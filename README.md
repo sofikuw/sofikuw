@@ -1,5 +1,5 @@
 ## Hi👋 there, I'm Sofikkk!
-### 💻 Explorer, Knowledge Seeker
+### 💻 Bout me
 
 I'm an **explorer** of the web and a dedicated **knowledge seeker**, always looking for random knowledge I ain't using in years.
 
