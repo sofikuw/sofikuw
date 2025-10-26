@@ -5,7 +5,7 @@ I'm an **explorer** of the web and a dedicated **knowledge seeker**, always look
 ### 👤 portfolio
 This ain't one but, let's assume...
 <a href="https://sofikuw.github.io/">
-<img src="https://www.svgrepo.com/svg/429905/portfolio-my-profile-browser"> </a>
+<img src="https://img.icons8.com/?size=100&id=23877&format=png&color=000000"> </a>
 
 ### ✉️ Contacts
 
