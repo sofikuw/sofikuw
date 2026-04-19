@@ -2,7 +2,7 @@
 
 ## bout Me
 
-I'm a web explorer and dedicated knowledge seeker — constantly chasing random, fascinating ideas across the internet, even when they have absolutely no practical use. That's the whole point.
+I'm an explorer and dedicated knowledge seeker — constantly chasing random, fascinating ideas, even when they have absolutely no practical use.And that's the whole point.
 
 I treat the web like an open world: no main quest, just an endless map of interesting things worth knowing.
 
