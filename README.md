@@ -12,7 +12,7 @@ Always running a side quest (or three). If you stumble across something worth sh
 
 ## Contacts
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sofikuw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofikuw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:84sofik@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sofikuw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofikuw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@sofikuw.is-not-a.dev) 
 
 ---
 *"Not all who wander are lost — some are just following a feeling the map doesn't know about."*
